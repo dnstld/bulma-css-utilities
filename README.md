@@ -192,3 +192,6 @@
 | .has-padding-left-4 | padding-left: 1rem    |
 | .has-padding-left-5 | padding-left: 1.25rem |
 | .has-padding-left-6 | padding-left: 1.5rem  |
+
+
+[Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
